@@ -33,3 +33,4 @@ class Kwadrat(Prostokat):
 kwadrat = Kwadrat(10)
 print(f'Pole kwadratu to {kwadrat.pole()}')
 print(f'Obwod kwadratu to {kwadrat.obwod()}')
+print(f'{kwadrat.boki}')
