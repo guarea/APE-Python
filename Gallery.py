@@ -1,5 +1,3 @@
-# Niech wypisz 
-
 class Galeria:
     def __init__(self, dziela:dict):
         self.dziela = dziela
